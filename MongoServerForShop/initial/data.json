@@ -1,0 +1,95 @@
+{
+  "goods": [
+    {
+      "id": 1,
+      "name": "Iphone X",
+      "rate": 70,
+      "discount": 30,
+      "type": 1
+    },
+    {
+      "id": 2,
+      "name": "Samsung S6",
+      "rate": 60,
+      "discount": 30,
+      "type": 1
+    },
+    {
+      "id": 3,
+      "name": "Lenovo Y7070",
+      "rate": 80,
+      "discount": 15,
+      "type": 2
+    },
+    {
+      "id": 4,
+      "name": "IPad Air",
+      "rate": 83,
+      "discount": 30,
+      "type": 3
+    },
+    {
+      "id": 5,
+      "name": "Xiaomi Redmi 6",
+      "rate": 50,
+      "discount": 30,
+      "type": 1
+    },
+    {
+      "id": 6,
+      "name": "Macbook Pro",
+      "rate": 70,
+      "discount": 30,
+      "type": 2
+    },
+    {
+      "id": 7,
+      "name": "HP Pavilion 15",
+      "rate": 70,
+      "discount": 30,
+      "type": 2
+    },
+    {
+      "id": 8,
+      "name": "HP ENVY 17",
+      "rate": 50,
+      "discount": 30,
+      "type": 2
+    },
+    {
+      "id": 9,
+      "name": "HP ProBook 450",
+      "rate": 27,
+      "discount": 30,
+      "type": 2
+    },
+    {
+      "id": 10,
+      "name": "Lenovo Tab 4",
+      "rate": 70,
+      "discount": 30,
+      "type": 3
+    },
+    {
+      "id": 11,
+      "name": "Samsung Galaxy Tab A ",
+      "rate": 15,
+      "discount": 30,
+      "type": 3
+    },
+    {
+      "id": 12,
+      "name": "Samsung Galaxy Tab S3",
+      "rate": 53,
+      "discount": 30,
+      "type": 3
+    },
+    {
+      "id": 13,
+      "name": "Samsung Galaxy Tab S 10.5",
+      "rate": 93,
+      "discount": 30,
+      "type": 3
+    }
+  ]
+}

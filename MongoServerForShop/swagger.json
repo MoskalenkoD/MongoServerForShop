@@ -1,0 +1,35 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "Test api"
+  },
+  "produces": ["application/json"],
+  "paths": {
+    "/api/goods": {
+      "get": {
+        "x-swagger-router-controller": "home",
+        "operationId": "get-all",
+        "tags": ["/goods"],
+        "description": "Returns all goods",
+        "responses": {}
+      }
+    },
+    "/api/goods/{id}": {
+      "get": {
+        "x-swagger-router-controller": "home",
+        "operationId": "get-by-id",
+        "tags": ["/goods"],
+        "description": "Returns good by id",
+        "responses": {},
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "type": "integer",
+            "required": true
+          }
+        ]
+      }
+    }
+  }
+}
